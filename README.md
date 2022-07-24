@@ -4,7 +4,7 @@
 Program which automatically re-launches Roblox instances
 
 # Notes
-Roblox Account Manager MUST BE OPENED while running the program
+Roblox Account Manager MUST BE OPENED while running the program. 
 Automatically Updates by the way
 # Requirements
 1 | https://github.com/ic3w0lf22/Roblox-Account-Manager
