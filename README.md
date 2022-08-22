@@ -17,7 +17,7 @@ Make sure accounts you run are added into the Account Manager, if you don't it w
 # Requirements
 1 | https://github.com/ic3w0lf22/Roblox-Account-Manager
 
-2 | A Windows Operating System
+2 | A Windows 10+ Operating System
 
 # How To Use
 
