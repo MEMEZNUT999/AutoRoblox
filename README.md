@@ -1,5 +1,12 @@
 **Looking for the source? Contact me at Shiawase#0001 (Discord)**
 
+                                     [V-0.2 CHANGELOG]
+                       
+                      [+] Added support for up to 10 accounts
+                      [+] Optimized interface to look cleaner & more easier to read
+                      [+] Added automatic installation for settings (See Below)
+
+
 # Auto Roblox
 Program which automatically re-launches Roblox instances
 
