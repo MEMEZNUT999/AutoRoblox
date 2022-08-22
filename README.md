@@ -14,24 +14,8 @@ Make sure accounts you run are added into the Account Manager, if you don't it w
 
 # How To Use
 
-1 | Download Roblox Account Manager (Link Above)
+1 | Head Over to the "Releases" tab and download the latest installer
 
-2 | After extracting the zip and whatnot go to `RAMSettings.ini`
+2 | Once finished downloading, drag the file to your Roblox Account Manager Folder (Should be something like `Roblox.Account.Manager.X.X`)
 
-3 | Under the `[WebServer]` Section, edit the following: 
-
-             ❕  "WebServerPort" to `8521` 
-
-             ❕  "AllowLaunchAccount" to `true` 
-
-             ❕  "Password" to any password you would like
-  
-![image](https://user-images.githubusercontent.com/73775954/180662877-265ad63a-ec5e-409f-9233-5b1e1cf5a3d6.png)
-
-4 | Head over to the `releases` tab and download the latest version
-
-5 | Run the installer and follow what it says
-
-6 | Run `AutoRoblox.exe`
-
-7 | Done!
+3 | Run it & you are done!
