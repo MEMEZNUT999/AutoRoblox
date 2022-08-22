@@ -1,4 +1,4 @@
-**Looking for the source? Contact me at Shiawase#0001 (Discord)**
+**False-Positive flagged as a trojan, you can contact me at Shiawase#0001 (Discord) Or t.me/SHlAWASE (Telegram) if you are looking for the `source code`**
 
                                      [V-0.2 CHANGELOG]
                        
